@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" >
+  <test name="test for node 1" >
+    <classes>
+      <class name="firstPack.PageTitle"/>
+    </classes>
+ </test>
+</suite>
